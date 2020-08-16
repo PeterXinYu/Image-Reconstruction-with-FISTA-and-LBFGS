@@ -1,6 +1,7 @@
 # Image-Reconstruction-with-FISTA-and-LBFGS
 
-Use FISTA and LBFGS algorithm to do the reconstruction for damaged image
+Use FISTA and LBFGS algorithm to do the reconstruction for damaged image.<br>
+Details of implementation are in the pdf file.
 <table>
     <tr>
         <td ><center><img src="damaged image.png" width="200"><br>damaged image</center></td>
